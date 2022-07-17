@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ChrisDowdPortfolio/static/css/main.aa684826.css",
+    "main.js": "/ChrisDowdPortfolio/static/js/main.8d2698c9.js",
+    "static/js/787.a2cb61a6.chunk.js": "/ChrisDowdPortfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/restaurant.jpg": "/ChrisDowdPortfolio/static/media/restaurant.496eb3fe4d69e349dbe8.jpg",
+    "static/media/love.png": "/ChrisDowdPortfolio/static/media/love.0ea4782b8b71cc115bca.png",
+    "static/media/movie-theater.jpg": "/ChrisDowdPortfolio/static/media/movie-theater.d431fd81be0b5f7cee03.jpg",
+    "static/media/students.jpg": "/ChrisDowdPortfolio/static/media/students.7c234549b60c1df02a0f.jpg",
+    "static/media/timer.jpg": "/ChrisDowdPortfolio/static/media/timer.3b1311a06fe6518aa31f.jpg",
+    "static/media/cater.jpg": "/ChrisDowdPortfolio/static/media/cater.9d513f6bd007d7cac31c.jpg",
+    "static/media/helvetica-neu.ttf": "/ChrisDowdPortfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff": "/ChrisDowdPortfolio/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
+    "static/media/LaBelleAurore.woff2": "/ChrisDowdPortfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff": "/ChrisDowdPortfolio/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
+    "static/media/CoolveticaRg-Regular.woff2": "/ChrisDowdPortfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/ChrisDowdPortfolio/index.html",
+    "main.aa684826.css.map": "/ChrisDowdPortfolio/static/css/main.aa684826.css.map",
+    "main.8d2698c9.js.map": "/ChrisDowdPortfolio/static/js/main.8d2698c9.js.map",
+    "787.a2cb61a6.chunk.js.map": "/ChrisDowdPortfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa684826.css",
+    "static/js/main.8d2698c9.js"
+  ]
+}
